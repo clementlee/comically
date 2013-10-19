@@ -5,4 +5,11 @@ package com.plushiesinspace.comically;
  * Created by cleme_000 on 10/17/13.
  */
 public class ImageDownloader {
+    ImageDownloader() {
+
+    }
+
+    public boolean askForDownload(String url) {
+        return false;
+    }
 }
